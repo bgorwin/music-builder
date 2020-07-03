@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/music-builder/static/css/main.ea61e481.chunk.css",
-    "main.js": "/music-builder/static/js/main.e61c26a5.chunk.js",
-    "main.js.map": "/music-builder/static/js/main.e61c26a5.chunk.js.map",
-    "runtime-main.js": "/music-builder/static/js/runtime-main.0a412e6d.js",
-    "runtime-main.js.map": "/music-builder/static/js/runtime-main.0a412e6d.js.map",
-    "static/js/2.3914f074.chunk.js": "/music-builder/static/js/2.3914f074.chunk.js",
-    "static/js/2.3914f074.chunk.js.map": "/music-builder/static/js/2.3914f074.chunk.js.map",
-    "index.html": "/music-builder/index.html",
-    "precache-manifest.d92f3a0f4796ed39e46017db8b8e083d.js": "/music-builder/precache-manifest.d92f3a0f4796ed39e46017db8b8e083d.js",
-    "service-worker.js": "/music-builder/service-worker.js",
-    "static/css/main.ea61e481.chunk.css.map": "/music-builder/static/css/main.ea61e481.chunk.css.map",
-    "static/js/2.3914f074.chunk.js.LICENSE.txt": "/music-builder/static/js/2.3914f074.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/music-builder/static/media/felipe-portella-h6gTtqBZUxc-unsplash.2311d3ea.jpg"
+    "main.css": "/bgorwin/music-builder/static/css/main.7f4e65c1.chunk.css",
+    "main.js": "/bgorwin/music-builder/static/js/main.8155985b.chunk.js",
+    "main.js.map": "/bgorwin/music-builder/static/js/main.8155985b.chunk.js.map",
+    "runtime-main.js": "/bgorwin/music-builder/static/js/runtime-main.3f8b60d8.js",
+    "runtime-main.js.map": "/bgorwin/music-builder/static/js/runtime-main.3f8b60d8.js.map",
+    "static/js/2.3914f074.chunk.js": "/bgorwin/music-builder/static/js/2.3914f074.chunk.js",
+    "static/js/2.3914f074.chunk.js.map": "/bgorwin/music-builder/static/js/2.3914f074.chunk.js.map",
+    "index.html": "/bgorwin/music-builder/index.html",
+    "precache-manifest.348acc3d72aac3dd56faa6b81bcf4ac2.js": "/bgorwin/music-builder/precache-manifest.348acc3d72aac3dd56faa6b81bcf4ac2.js",
+    "service-worker.js": "/bgorwin/music-builder/service-worker.js",
+    "static/css/main.7f4e65c1.chunk.css.map": "/bgorwin/music-builder/static/css/main.7f4e65c1.chunk.css.map",
+    "static/js/2.3914f074.chunk.js.LICENSE.txt": "/bgorwin/music-builder/static/js/2.3914f074.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/bgorwin/music-builder/static/media/felipe-portella-h6gTtqBZUxc-unsplash.2311d3ea.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0a412e6d.js",
+    "static/js/runtime-main.3f8b60d8.js",
     "static/js/2.3914f074.chunk.js",
-    "static/css/main.ea61e481.chunk.css",
-    "static/js/main.e61c26a5.chunk.js"
+    "static/css/main.7f4e65c1.chunk.css",
+    "static/js/main.8155985b.chunk.js"
   ]
 }
