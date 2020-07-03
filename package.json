@@ -2,7 +2,7 @@
 	"name": "music-builder",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://github.com/bgorwin/music-builder",
+	"homepage": "https://github.io/bgorwin/music-builder/",
 	"dependencies": {
 		"@testing-library/jest-dom": "^4.2.4",
 		"@testing-library/react": "^9.3.2",
