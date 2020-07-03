@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/music-builder/static/css/main.ea61e481.chunk.css",
-    "main.js": "/music-builder/static/js/main.33ea3fe8.chunk.js",
-    "main.js.map": "/music-builder/static/js/main.33ea3fe8.chunk.js.map",
+    "main.js": "/music-builder/static/js/main.1ff43594.chunk.js",
+    "main.js.map": "/music-builder/static/js/main.1ff43594.chunk.js.map",
     "runtime-main.js": "/music-builder/static/js/runtime-main.0a412e6d.js",
     "runtime-main.js.map": "/music-builder/static/js/runtime-main.0a412e6d.js.map",
     "static/js/2.3914f074.chunk.js": "/music-builder/static/js/2.3914f074.chunk.js",
     "static/js/2.3914f074.chunk.js.map": "/music-builder/static/js/2.3914f074.chunk.js.map",
     "index.html": "/music-builder/index.html",
-    "precache-manifest.2b79bea0252ceeb3c1eec7b2fbf2108e.js": "/music-builder/precache-manifest.2b79bea0252ceeb3c1eec7b2fbf2108e.js",
+    "precache-manifest.1d43d91ee021df4664df7db2f7a2a47b.js": "/music-builder/precache-manifest.1d43d91ee021df4664df7db2f7a2a47b.js",
     "service-worker.js": "/music-builder/service-worker.js",
     "static/css/main.ea61e481.chunk.css.map": "/music-builder/static/css/main.ea61e481.chunk.css.map",
     "static/js/2.3914f074.chunk.js.LICENSE.txt": "/music-builder/static/js/2.3914f074.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.0a412e6d.js",
     "static/js/2.3914f074.chunk.js",
     "static/css/main.ea61e481.chunk.css",
-    "static/js/main.33ea3fe8.chunk.js"
+    "static/js/main.1ff43594.chunk.js"
   ]
 }
