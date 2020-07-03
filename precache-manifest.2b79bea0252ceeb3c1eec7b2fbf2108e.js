@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f56f2bf8ab82cd1af0d32b59eb0d4de1",
+    "revision": "61eca3f265445ed08731e1a0511aec87",
     "url": "/music-builder/index.html"
   },
   {
-    "revision": "2037e2c69d0fb57e2b2c",
+    "revision": "d4ef8f18c1adc59be431",
     "url": "/music-builder/static/css/main.ea61e481.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/music-builder/static/js/2.3914f074.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2037e2c69d0fb57e2b2c",
-    "url": "/music-builder/static/js/main.e61c26a5.chunk.js"
+    "revision": "d4ef8f18c1adc59be431",
+    "url": "/music-builder/static/js/main.33ea3fe8.chunk.js"
   },
   {
     "revision": "9952bae38565e361ad54",
